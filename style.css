@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #111827;
+}
+
+.everyone{
+    margin-left: 300px;
+    margin-top: 10%;
+    color: #ffff;
+}
+
+.Anderson{
+    margin-left: 300px;  
+    color: #ffff;
+}
+
+.Developer{
+    margin-left: 300px;
+    color: #ffff00;
+}
+
+.pc-image{
+    margin-left: 500px;
+    height: 900px;
+    width: 300px;
+}
+
+nav ul{
+    color: #ffff;
+    float: right;
+    display: flex;
+}
+.home-op{
+    background-color: #6258c9;
+    padding: 5px 5px;
+    border: none;
+    border-radius: 50px;
+}
+nav ul li {
+    list-style: none;
+    margin-right: 15px;
+
+}
+
+.Pr{
+    margin-left: 500px;
+    text-align: center;
+    justify-content: center;
+    color: #ffff;
+    text-decoration: blue underline;
+    font-size: 25px;
+}
+
+.image_cont1{
+    padding-top: 10px;
+    display: flex;
+    height: 300px;
+    width: 300px;
+    margin-left: 300px;
+    gap: 30px;
+}
+
+.project1{
+    color: #ffff;
+    padding-top: 290px;
+}
+.project2{
+    color: #ffff;
+    padding-top: 290px;
+
+}
+.image_cont2{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    margin-left: 310px;
+    margin-top: 100px;
+}
+
+.project3{
+    color: #ffff;
+    padding-top: 290px;
+
+}
+
+.project4{
+    color: #ffff;
+    padding-top: 290px;
+
+}
+
+.footer_social_link{
+    padding-top: 100px;
+    
+
+}
+a{
+    margin-top: 500px;
+    margin-left: 500px;
+}
+.github{
+    height: 50px;
+    width: 50px;
+}
+
+.linkedin{
+    height: 50x;
+    width: 50px;
+}
+
+.outlook{
+    height: 50px;
+    width: 50px;
+}
+
+.footer_social_link{
+    margin-left: 600px;
+}
